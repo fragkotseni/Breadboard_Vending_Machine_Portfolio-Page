@@ -1,9 +1,11 @@
 # Breadboard_Vending_Machine_Portfolio-Page
 A latch is a type of memory device that stores a single bit of information. An SR latch has two inputs: S (Set) and R (Reset). It also has an output called Q. The S input is used to set the latch, while the R input resets it.
 ![414837432-b4988f00-c472-40c7-be08-60141ae61f49](https://github.com/user-attachments/assets/0995e691-9db0-4870-98dd-f56355c8a2db)
+
 As shown in the table, this is how the SR latch operates.
 However, by design, when both S and R are activated simultaneously, it results in an invalid input, making the value of Q undefined.
 ![414838708-32fff1ac-5cba-4037-b2a2-ceed5d079b1c](https://github.com/user-attachments/assets/0f888ec1-d473-45a8-b92a-792306996ac1)
+
 Also a diagram of an SR NOR
 ![414839274-68457a30-f72e-47fe-ad15-52cbfd925c39](https://github.com/user-attachments/assets/a821c6c4-4a16-491d-96e4-dceb5de11a2d)
 
