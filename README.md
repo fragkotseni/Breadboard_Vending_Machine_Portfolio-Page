@@ -18,6 +18,7 @@ Our Vending machine
 Coin in
 ![IMG_9197 (1)](https://github.com/user-attachments/assets/48de5d75-d827-4b2c-9cbe-3ac57d832745)
 The circuit has two inputs: COIN and VEND. Pressing the COIN button simulates inserting a coin, while pressing the VEND button triggers the machine to dispense an item, indicated by an LED turning on.
+
 Vending
 ![IMG_9195 (2)](https://github.com/user-attachments/assets/4f640724-3aa3-4d79-b542-d66c583accdb)
 Reset
