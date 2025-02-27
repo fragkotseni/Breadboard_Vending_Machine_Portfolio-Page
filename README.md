@@ -24,3 +24,5 @@ Vending
 Reset
 ![IMG_9196 (1)](https://github.com/user-attachments/assets/6fa16c06-12c7-463b-be10-728868a75530)
 
+References
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
