@@ -1,4 +1,5 @@
 # Breadboard_Vending_Machine_Portfolio-Page
-![IMG_9197](https://github.com/user-attachments/assets/e712a40a-13e6-4900-b7d7-a076f18ccde9)
-![IMG_9196](https://github.com/user-attachments/assets/17c99e82-d806-43e0-bd92-3757dbd57ffa)
-![IMG_9195](https://github.com/user-attachments/assets/94a3556e-3bc3-4d3e-a816-13525e6897c4)
+![IMG_9197 (1)](https://github.com/user-attachments/assets/48de5d75-d827-4b2c-9cbe-3ac57d832745)
+![IMG_9195 (2)](https://github.com/user-attachments/assets/4f640724-3aa3-4d79-b542-d66c583accdb)
+![IMG_9196 (1)](https://github.com/user-attachments/assets/6fa16c06-12c7-463b-be10-728868a75530)
+
