@@ -32,7 +32,9 @@ Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Wor
 
 ## RaspBerry Pi
 The Raspberry Pi features General-Purpose Input/Output (GPIO) pins, which can function as either inputs or outputs. These pins allow the Raspberry Pi to control or interact with external devices by sending or receiving signals. Some pins are dedicated to providing constant power (5V or 3.3V) or ground connections. It's important to note that the physical pin numbers do not always correspond to the GPIO numbers used in programming, so using the correct GPIO number is essential when writing code.
+
 ![IMG_9402](https://github.com/user-attachments/assets/92e38a31-c631-40f3-8c45-71aeb5766e79)
+
 ![426592745-a20bedab-550e-4047-85d6-74abd637b051](https://github.com/user-attachments/assets/2d920ecd-3860-42a1-88be-7539bf8cb58f)
 
 ## Pocess of creating vending machine
